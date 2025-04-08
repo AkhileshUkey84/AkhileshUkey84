@@ -16,7 +16,7 @@ I'm a highly motivated and skilled programmer with:
 **Domains:** Web Development, Cybersecurity, Data Structures & Algorithms, Data Science
 
 ## 🚀 Projects
-### 🔹 [Personal Financial Dashboard](#https://github.com/Ohasu22/Personal_Finance_Dashboard)
+### 🔹 [Personal Financial Dashboard](https://github.com/Ohasu22/Personal_Finance_Dashboard)
 *Internship Project | June–Aug 2024*
 - Full-stack application to manage and track personal finances
 - Backend: Node.js, Express.js, MySQL
