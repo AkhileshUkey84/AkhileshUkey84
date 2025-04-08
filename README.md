@@ -16,7 +16,7 @@ I'm a highly motivated and skilled programmer with:
 **Domains:** Web Development, Cybersecurity, Data Structures & Algorithms, Data Science
 
 ## 🚀 Projects
-### 🔹 [Personal Financial Dashboard](#)
+### 🔹 [Personal Financial Dashboard](#https://github.com/Ohasu22/Personal_Finance_Dashboard)
 *Internship Project | June–Aug 2024*
 - Full-stack application to manage and track personal finances
 - Backend: Node.js, Express.js, MySQL
@@ -52,7 +52,7 @@ I'm a highly motivated and skilled programmer with:
 
 ## 📫 Connect With Me
 - 📧 akhilesh.ukey@mitaoe.ac.in | akhileshukey84@gmail.com  
-- 📱 +91-8767339026 | +91-7057512799  
+- 📱 +91-8767339026
 - 🌐 [LinkedIn](https://www.linkedin.com/in/akhilesh-ukey-6102b1282/)  
 - 📍 Pune, Maharashtra, India
 
