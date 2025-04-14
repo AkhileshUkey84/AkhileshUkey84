@@ -56,4 +56,4 @@ I'm a highly motivated and skilled programmer with:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/akhilesh-ukey-6102b1282/)  
 - 📍 Pune, Maharashtra, India
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilesh-ukey&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhileshukey84&show_icons=true&theme=radical)
